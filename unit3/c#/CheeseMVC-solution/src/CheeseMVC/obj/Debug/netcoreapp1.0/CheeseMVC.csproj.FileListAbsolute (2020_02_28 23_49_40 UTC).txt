@@ -1,0 +1,11 @@
+C:\Users\Gail Fike\lc101\unit3\c#\CheeseMVC-solution\src\CheeseMVC\bin\Debug\netcoreapp1.0\CheeseMVC.deps.json
+C:\Users\Gail Fike\lc101\unit3\c#\CheeseMVC-solution\src\CheeseMVC\bin\Debug\netcoreapp1.0\CheeseMVC.runtimeconfig.json
+C:\Users\Gail Fike\lc101\unit3\c#\CheeseMVC-solution\src\CheeseMVC\bin\Debug\netcoreapp1.0\CheeseMVC.runtimeconfig.dev.json
+C:\Users\Gail Fike\lc101\unit3\c#\CheeseMVC-solution\src\CheeseMVC\bin\Debug\netcoreapp1.0\CheeseMVC.dll
+C:\Users\Gail Fike\lc101\unit3\c#\CheeseMVC-solution\src\CheeseMVC\bin\Debug\netcoreapp1.0\CheeseMVC.pdb
+C:\Users\Gail Fike\lc101\unit3\c#\CheeseMVC-solution\src\CheeseMVC\obj\Debug\netcoreapp1.0\CheeseMVC.csprojResolveAssemblyReference.cache
+C:\Users\Gail Fike\lc101\unit3\c#\CheeseMVC-solution\src\CheeseMVC\obj\Debug\netcoreapp1.0\CheeseMVC.csproj.CoreCompileInputs.cache
+C:\Users\Gail Fike\lc101\unit3\c#\CheeseMVC-solution\src\CheeseMVC\obj\Debug\netcoreapp1.0\CheeseMVC.AssemblyInfoInputs.cache
+C:\Users\Gail Fike\lc101\unit3\c#\CheeseMVC-solution\src\CheeseMVC\obj\Debug\netcoreapp1.0\CheeseMVC.AssemblyInfo.cs
+C:\Users\Gail Fike\lc101\unit3\c#\CheeseMVC-solution\src\CheeseMVC\obj\Debug\netcoreapp1.0\CheeseMVC.dll
+C:\Users\Gail Fike\lc101\unit3\c#\CheeseMVC-solution\src\CheeseMVC\obj\Debug\netcoreapp1.0\CheeseMVC.pdb

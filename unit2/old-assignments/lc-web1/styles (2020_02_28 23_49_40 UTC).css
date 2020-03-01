@@ -1,0 +1,37 @@
+body {
+  background-image: url("planet.jpg");
+  background-attachment: fixed;
+  margin-top: 0px;
+  font-family: sans-serif;
+  padding: 20px;
+  color: white;
+}
+
+
+footer{
+  background: antiquewhite;
+  text-align: center;
+  color: black;
+}
+
+h1{
+  margin-top: 0;
+  text-align: center;
+}
+
+.m {
+  font-style: oblique;
+}
+
+#dragon{
+  background: antiquewhite;
+  height: inherit;
+  width: inherit;
+}
+
+article{
+  padding: 20px;
+  font-size: 12px;
+  font-style: normal;
+  color: white;
+}

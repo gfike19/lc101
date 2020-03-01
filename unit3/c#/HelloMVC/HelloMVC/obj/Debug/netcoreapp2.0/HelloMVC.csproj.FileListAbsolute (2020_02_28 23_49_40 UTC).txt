@@ -1,0 +1,11 @@
+C:\Users\Gail Fike\lc101\unit3\c#\HelloMVC\HelloMVC\obj\Debug\netcoreapp2.0\HelloMVC.csproj.CoreCompileInputs.cache
+C:\Users\Gail Fike\lc101\unit3\c#\HelloMVC\HelloMVC\obj\Debug\netcoreapp2.0\HelloMVC.AssemblyInfoInputs.cache
+C:\Users\Gail Fike\lc101\unit3\c#\HelloMVC\HelloMVC\obj\Debug\netcoreapp2.0\HelloMVC.AssemblyInfo.cs
+C:\Users\Gail Fike\lc101\unit3\c#\HelloMVC\HelloMVC\bin\Debug\netcoreapp2.0\HelloMVC.deps.json
+C:\Users\Gail Fike\lc101\unit3\c#\HelloMVC\HelloMVC\bin\Debug\netcoreapp2.0\HelloMVC.runtimeconfig.json
+C:\Users\Gail Fike\lc101\unit3\c#\HelloMVC\HelloMVC\bin\Debug\netcoreapp2.0\HelloMVC.runtimeconfig.dev.json
+C:\Users\Gail Fike\lc101\unit3\c#\HelloMVC\HelloMVC\bin\Debug\netcoreapp2.0\HelloMVC.dll
+C:\Users\Gail Fike\lc101\unit3\c#\HelloMVC\HelloMVC\bin\Debug\netcoreapp2.0\HelloMVC.pdb
+C:\Users\Gail Fike\lc101\unit3\c#\HelloMVC\HelloMVC\obj\Debug\netcoreapp2.0\HelloMVC.dll
+C:\Users\Gail Fike\lc101\unit3\c#\HelloMVC\HelloMVC\obj\Debug\netcoreapp2.0\HelloMVC.pdb
+C:\Users\Gail Fike\lc101\unit3\c#\HelloMVC\HelloMVC\obj\Debug\netcoreapp2.0\HelloMVC.csprojResolveAssemblyReference.cache

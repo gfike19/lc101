@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org/">
+<head th:replace="template :: dochead">
+</head>
+<body>
+
+	<div th:replace="template :: navigation"></div>
+
+	<h1>blog users!</h1>
+
+	<!--  list all users, with links to their blog pages -->
+	
+	<div th:each="user : ${users}">
+	<p class="post-author"><a th:href="'/blog/' + ${user.username}" th:text="${user.username}"></a></p>
+	</div>
+	
+</body>
+</html>

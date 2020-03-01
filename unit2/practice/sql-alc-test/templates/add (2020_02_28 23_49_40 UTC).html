@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+        <head>
+                <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+        </head>
+        <body>
+    <form method='post'>
+        <p>Enter the beast's name: <input type="text" name="name" id="name"/></p>
+        <p>Enter a description of it:</p>
+        <p><input type="textarea" name="descr" id="descr"/></p>
+        <p><button type="submit">Submit</button></p>
+    </form>
+</body>
+{{error}}
+</html>

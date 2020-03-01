@@ -1,0 +1,25 @@
+
+body {
+    background: #dad9d9;    
+}
+
+.card {
+    background: #ffffff;
+    width: 360px;
+    height: auto;
+    margin: 15px 0;
+}
+
+.thumbnail {
+    width: 100px;
+    padding: 10px;
+    float: left;
+}
+
+.info {
+    float: left;
+}
+
+.clearfix {
+    clear: both;
+}

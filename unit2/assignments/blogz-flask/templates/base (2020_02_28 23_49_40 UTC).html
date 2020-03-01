@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<header>
+    <h3>Blogz</h3>
+    <ul>
+        <li>
+            <a href="/">Home</a>
+        </li>
+        <li>
+            <a href="/newpost">New post</a>
+        </li>
+        <li>
+            <a href="/login">Login</a>
+        </li>
+        <li>
+            <a href="/logout">Logout</a>
+        </li>
+    </ul>
+</header>
+<body>
+{% block content %}
+{% endblock %}
+</body>
+
+<footer>{{error}}</footer>
+
+</html>

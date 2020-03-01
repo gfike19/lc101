@@ -1,0 +1,11 @@
+C:\Users\Gail Fike\lc101\unit3\c#\TechJobsConsole\src\TechJobsConsole\bin\Debug\netcoreapp2.0\TechJobsConsole.deps.json
+C:\Users\Gail Fike\lc101\unit3\c#\TechJobsConsole\src\TechJobsConsole\bin\Debug\netcoreapp2.0\TechJobsConsole.runtimeconfig.json
+C:\Users\Gail Fike\lc101\unit3\c#\TechJobsConsole\src\TechJobsConsole\bin\Debug\netcoreapp2.0\TechJobsConsole.runtimeconfig.dev.json
+C:\Users\Gail Fike\lc101\unit3\c#\TechJobsConsole\src\TechJobsConsole\bin\Debug\netcoreapp2.0\TechJobsConsole.dll
+C:\Users\Gail Fike\lc101\unit3\c#\TechJobsConsole\src\TechJobsConsole\bin\Debug\netcoreapp2.0\TechJobsConsole.pdb
+C:\Users\Gail Fike\lc101\unit3\c#\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp2.0\TechJobsConsole.csprojResolveAssemblyReference.cache
+C:\Users\Gail Fike\lc101\unit3\c#\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp2.0\TechJobsConsole.csproj.CoreCompileInputs.cache
+C:\Users\Gail Fike\lc101\unit3\c#\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp2.0\TechJobsConsole.AssemblyInfoInputs.cache
+C:\Users\Gail Fike\lc101\unit3\c#\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp2.0\TechJobsConsole.AssemblyInfo.cs
+C:\Users\Gail Fike\lc101\unit3\c#\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp2.0\TechJobsConsole.dll
+C:\Users\Gail Fike\lc101\unit3\c#\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp2.0\TechJobsConsole.pdb

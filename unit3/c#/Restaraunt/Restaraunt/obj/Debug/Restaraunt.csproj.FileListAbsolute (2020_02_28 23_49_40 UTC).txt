@@ -1,0 +1,7 @@
+C:\Users\Gail Fike\source\repos\Restaraunt\Restaraunt\bin\Debug\Restaraunt.exe.config
+C:\Users\Gail Fike\source\repos\Restaraunt\Restaraunt\bin\Debug\Restaraunt.exe
+C:\Users\Gail Fike\source\repos\Restaraunt\Restaraunt\bin\Debug\Restaraunt.pdb
+C:\Users\Gail Fike\source\repos\Restaraunt\Restaraunt\obj\Debug\Restaraunt.csprojResolveAssemblyReference.cache
+C:\Users\Gail Fike\source\repos\Restaraunt\Restaraunt\obj\Debug\Restaraunt.csproj.CoreCompileInputs.cache
+C:\Users\Gail Fike\source\repos\Restaraunt\Restaraunt\obj\Debug\Restaraunt.exe
+C:\Users\Gail Fike\source\repos\Restaraunt\Restaraunt\obj\Debug\Restaraunt.pdb

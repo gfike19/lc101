@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+            <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    </head>
+    <body>
+    <h1>Monsters in Grimoire</h1>
+    {% for each in all_mons%}
+    <b>{{each.name}}</b>
+    <p>
+        {{each.descr}}
+    </p>
+    {% endfor %}
+    <a href="/add">Add a monster: </a>
+</body>
+</html>

@@ -1,0 +1,14 @@
+C:\Users\Gail Fike\lc101\unit3\c#\sandbox\sandbox\bin\Debug\sandbox.exe.config
+C:\Users\Gail Fike\lc101\unit3\c#\sandbox\sandbox\bin\Debug\sandbox.exe
+C:\Users\Gail Fike\lc101\unit3\c#\sandbox\sandbox\bin\Debug\sandbox.pdb
+C:\Users\Gail Fike\lc101\unit3\c#\sandbox\sandbox\obj\Debug\sandbox.csprojResolveAssemblyReference.cache
+C:\Users\Gail Fike\lc101\unit3\c#\sandbox\sandbox\obj\Debug\sandbox.csproj.CoreCompileInputs.cache
+C:\Users\Gail Fike\lc101\unit3\c#\sandbox\sandbox\obj\Debug\sandbox.exe
+C:\Users\Gail Fike\lc101\unit3\c#\sandbox\sandbox\obj\Debug\sandbox.pdb
+C:\Users\aerot\lc101\unit3\c#\sandbox\sandbox\obj\Debug\sandbox.csprojAssemblyReference.cache
+C:\Users\aerot\lc101\unit3\c#\sandbox\sandbox\obj\Debug\sandbox.csproj.CoreCompileInputs.cache
+C:\Users\aerot\lc101\unit3\c#\sandbox\sandbox\obj\Debug\sandbox.exe
+C:\Users\aerot\lc101\unit3\c#\sandbox\sandbox\obj\Debug\sandbox.pdb
+C:\Users\aerot\lc101\unit3\c#\sandbox\sandbox\bin\Debug\sandbox.exe.config
+C:\Users\aerot\lc101\unit3\c#\sandbox\sandbox\bin\Debug\sandbox.exe
+C:\Users\aerot\lc101\unit3\c#\sandbox\sandbox\bin\Debug\sandbox.pdb

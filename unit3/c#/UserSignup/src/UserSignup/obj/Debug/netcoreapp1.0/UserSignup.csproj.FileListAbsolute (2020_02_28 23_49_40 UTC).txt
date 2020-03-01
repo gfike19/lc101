@@ -1,0 +1,10 @@
+C:\Users\Gail Fike\lc101\unit3\c#\UserSignup\src\UserSignup\bin\Debug\netcoreapp1.0\UserSignup.deps.json
+C:\Users\Gail Fike\lc101\unit3\c#\UserSignup\src\UserSignup\bin\Debug\netcoreapp1.0\UserSignup.runtimeconfig.json
+C:\Users\Gail Fike\lc101\unit3\c#\UserSignup\src\UserSignup\bin\Debug\netcoreapp1.0\UserSignup.runtimeconfig.dev.json
+C:\Users\Gail Fike\lc101\unit3\c#\UserSignup\src\UserSignup\bin\Debug\netcoreapp1.0\UserSignup.dll
+C:\Users\Gail Fike\lc101\unit3\c#\UserSignup\src\UserSignup\bin\Debug\netcoreapp1.0\UserSignup.pdb
+C:\Users\Gail Fike\lc101\unit3\c#\UserSignup\src\UserSignup\obj\Debug\netcoreapp1.0\UserSignup.csproj.CoreCompileInputs.cache
+C:\Users\Gail Fike\lc101\unit3\c#\UserSignup\src\UserSignup\obj\Debug\netcoreapp1.0\UserSignup.AssemblyInfoInputs.cache
+C:\Users\Gail Fike\lc101\unit3\c#\UserSignup\src\UserSignup\obj\Debug\netcoreapp1.0\UserSignup.AssemblyInfo.cs
+C:\Users\Gail Fike\lc101\unit3\c#\UserSignup\src\UserSignup\obj\Debug\netcoreapp1.0\UserSignup.dll
+C:\Users\Gail Fike\lc101\unit3\c#\UserSignup\src\UserSignup\obj\Debug\netcoreapp1.0\UserSignup.pdb

@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"><!-- how to define fragments -->
+	<head th:fragment="header">
+		<title th:text="${title}">Hello, Spring</title><!-- will use title if it has a value, no value means to use what follows -->
+		
+	</head>
+	<p th:fragment="footer">
+	Copyright &copy; LaunchCode
+	</p>
+</html>

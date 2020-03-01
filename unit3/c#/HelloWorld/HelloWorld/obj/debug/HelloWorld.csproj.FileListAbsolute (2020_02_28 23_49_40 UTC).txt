@@ -1,0 +1,13 @@
+C:\Users\aerot\lc101\unit3\c#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\aerot\lc101\unit3\c#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\aerot\lc101\unit3\c#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\aerot\lc101\unit3\c#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\aerot\lc101\unit3\c#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\aerot\lc101\unit3\c#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Gail Fike\lc101\unit3\c#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Gail Fike\lc101\unit3\c#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Gail Fike\lc101\unit3\c#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Gail Fike\lc101\unit3\c#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Gail Fike\lc101\unit3\c#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Gail Fike\lc101\unit3\c#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Gail Fike\lc101\unit3\c#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

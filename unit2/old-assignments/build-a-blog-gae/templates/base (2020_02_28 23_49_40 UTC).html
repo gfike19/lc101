@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Build a Blog!</title>
+  </head>
+  <body>
+    {% block content %}{% endblock %}
+    <br><br>
+    <a href="/blog/newpost">Create a new post</a>
+    <br><br>
+    <a href = "/blog">View older posts</a>
+    <br><br>
+    {% if error %}
+  Error found: {{error}}
+  {% endif %}
+  </body>
+</html>

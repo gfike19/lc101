@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<header>
+    <title>Flask Demo App</title>
+</header>
+    <body> <!-- putting working code aside -->
+                <!-- {% for key, value in theDict.items() %}
+                   <h1>User input: {{key}}</h1>
+                   <h2>The "the" count: {{value}}</h2>
+                {% endfor %} -->
+        <table>
+            <tr>
+                <td><b>User Input</b></td> <td><b>The "the" count</b></td>
+            </tr>
+            {% for key, value in theDict.items() %}
+            <tr>
+                <td>{{key}}</td><td>{{value}}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    </body>
+    <a href="/">Add more text</a>
+</html>
