@@ -1,5 +1,6 @@
 from flask import Flask, request, redirect, render_template
-import cgi
+# import cgi
+import html
 import os
 import jinja2
 from validation import *
@@ -16,10 +17,15 @@ def index():
 
 @app.route("/", methods=['POST'])
 def indexPost():
-    uname = cgi.escape(request.form['uname'])
-    pwd = cgi.escape(request.form['pwd'])
-    vpwd = cgi.escape(request.form['vpwd'])
-    email = cgi.escape(request.form['email'])
+    # uname = cgi.escape(request.form['uname'])
+    # pwd = cgi.escape(request.form['pwd'])
+    # vpwd = cgi.escape(request.form['vpwd'])
+    # email = cgi.escape(request.form['email'])
+
+    uname = html.escape(request.form['uname'])
+    pwd = html.escape(request.form['pwd'])
+    vpwd = html.escape(request.form['vpwd'])
+    email = html.escape(request.form['email'])
 
     uname_error = ""
     pwd_error = ""
