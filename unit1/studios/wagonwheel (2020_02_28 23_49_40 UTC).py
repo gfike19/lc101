@@ -1,6 +1,6 @@
 import turtle
-wn=turtle.Screen()
-raph=turtle.Turtle()
+wn = turtle.Screen()
+raph = turtle.Turtle()
 raph.speed(10)
 
 def drawSq(t, sz):
